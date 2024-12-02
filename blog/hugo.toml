@@ -1,5 +1,22 @@
 baseURL = 'https://HectorSchreiner.github.io/'
 languageCode = 'en-us'
 title = 'Schousbos cyberblog'
-
 theme = "risotto"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+   
+   [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[params.about]
+title = "risotto"
+description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+

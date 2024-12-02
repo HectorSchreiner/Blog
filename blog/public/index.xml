@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Schousbos cyberblog</title>
+    <title>Welcome to My Blog on Schousbos cyberblog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Schousbos cyberblog</description>
+    <description>Recent content in Welcome to My Blog on Schousbos cyberblog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Dec 2024 18:10:13 +0100</lastBuildDate>
@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Mon, 02 Dec 2024 18:10:13 +0100</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;h1 id=&#34;this-is-where-i-can-show-you-my-cool-rustcode&#34;&gt;This is where i can show you my cool rustcode&lt;/h1&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-rust&#34; data-lang=&#34;rust&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;pub&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;fn&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;() {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    println!{&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!};&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <description>&lt;h1 id=&#34;her-kan-man-skrive-en-masse&#34;&gt;her kan man skrive en masse&lt;/h1&gt;&#xA;&lt;p&gt;test website&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to My Blog!&lt;/h2&gt;&#xA;&lt;p&gt;This is the about page of my blog. Here, I’ll share a little bit about myself and the purpose of this site.&lt;/p&gt;&#xA;&lt;p&gt;Feel free to explore the posts and get in touch if you have any questions!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I’m passionate about technology, programming, and writing.&lt;/li&gt;&#xA;&lt;li&gt;I enjoy sharing tutorials, tips, and personal experiences.&lt;/li&gt;&#xA;&lt;li&gt;You can follow me on social media or contact me directly via email.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Thanks for stopping by!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
