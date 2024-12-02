@@ -1,0 +1,5 @@
+baseURL = 'https://HectorSchreiner.github.io/'
+languageCode = 'en-us'
+title = 'Schousbos cyberblog'
+
+theme = "risotto"
